@@ -4,7 +4,13 @@ ${\color{#5A0502} Lied}$
 ${\color{#515A63} to}$
 ${\color{#640606} them}$
 ${\color{#C4C1B8} parrot.}$
-${\color{#5A0502} all}$
+ ${\color{#311315} I}$
+  ${\color{#917F7D} lied}$
+   ${\color{#3E1617} to}$
+    ${\color{#5A0502} them}$
+${\color{#5A0502} all!}$
+ ${\color{#311315} , }$
+  ${\color{#5D469E} ALL}$
 ${\color{#5A0502} of}$
 ${\color{#590013} them!}$
 
