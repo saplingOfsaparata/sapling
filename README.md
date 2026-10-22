@@ -3,7 +3,7 @@ ${\color{#515A63} I}$
 ${\color{#5A0502} Lied}$
 ${\color{#515A63} to}$
 ${\color{#640606} them}$
-${\color{#515A63} parrot.}$
+${\color{#C4C1B8} parrot.}$
 ${\color{#5A0502} all}$
 ${\color{#5A0502} of}$
 ${\color{#590013} them!}$
@@ -42,7 +42,7 @@ ${\color{#540201} ︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵}$
 
 
 ${\color{#C4C1B8} ────୨ৎ────}$
-${\color{#561E21}  ㅤㅤ⊹   ୨ am taken ୧   ࣭  ◖ minor ◗  𑁯ִଓ   ˑ    ܀ }$
+${\color{#561E21}  ㅤㅤ⊹   ୨ taken ୧   ࣭  ◖ minor ◗  𑁯ִଓ   ˑ    ܀ }$
 
 
  ${\color{#311315}     𓏲୨   Dms open,ּ .s4parata.  ໑  ׅ   ⋆}$
