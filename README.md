@@ -19,9 +19,7 @@ ${\color{#818588} ୨୧ㅤִㅤׄ  }$
 ${\color{#D06488} P}$
 ${\color{#F6D08F} a}$
 ${\color{#779DC4} n}$
-
 ${\color{#818588} |}$
-
 ${\color{#D46A9A} G}$
 ${\color{#D46A9A} e}$
 ${\color{#EDE1EB} n}$
@@ -33,9 +31,7 @@ ${\color{#38193B} l}$
 ${\color{#5D469E} u}$
 ${\color{#5D469E} i}$
 ${\color{#5D469E} d}$
-
 ${\color{#818588} |}$
-
 ${\color{#F07611} A}$
 ${\color{#F4AC1A} r}$
 ${\color{#EECF99} o}$
