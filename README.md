@@ -50,11 +50,12 @@ ${\color{#540201} ︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵}$
 
 
 ${\color{#C4C1B8} ────୨ৎ────}$
-${\color{#561E21}  ㅤㅤ⊹   ୨【 taken 】୧   ࣭  【◖ minor ◗】  𑁯ִଓ}$
+${\color{#561E21}ㅤ⊹   ୨【 taken 】୧}$
+${\color{#818588}  ◖ minor ◗  𑁯ִଓ}$
 
 
- ${\color{#311315}     𓏲୨   Dms }$
- ${\color{#311315} open,ּ .s4parata.  ໑  ׅ   ⋆}$
+ ${\color{#5A0502}     𓏲୨   Dms }$
+ ${\color{#515A63} open,ּ .s4parata.  ໑  ׅ   ⋆}$
 
 ${\color{#5A0502} ────୨ৎ────}$
 
