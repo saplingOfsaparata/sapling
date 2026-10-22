@@ -59,3 +59,14 @@ ${\color{#818588}  ◖ minor ◗  𑁯ִଓ}$
 
 ${\color{#5A0502} ────୨ৎ────}$
 
+${\color{#C4C1B8} follow}$
+${\color{#5A0502} my}$
+${\color{#818588} github<3}$
+
+${\color{#561E2} PLSS}$
+${\color{#561E21} Interact!!}$
+${\color{#C4C1B8} am}$
+${\color{#C4C1B8} COOL!!}$
+${\color{#561E21} TRUST!!<3}$
+
+
