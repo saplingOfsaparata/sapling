@@ -13,7 +13,7 @@ ${\color{#540201} ── ⋆⋅𖤓⋅⋆ ──}$
 
 
 ${\color{#540201} ︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵ }$
-${\color{#818588}𓈒⠀saps 𓏸 ⠀Cycho⠀𓇼
+${\color{#818588}𓈒⠀saps 𓏸 ⠀Cycho⠀𓇼}$
 
 ${\color{#818588} ୨୧ㅤִㅤׄ  aroace/pan/genderfluid}$
 
